@@ -1,5 +1,5 @@
 # Full stack with Next.js, Amplify, & CDK
-
+    
 This project shows you how to build an app that extends a back end created by the Amplify CLI by using AWS CDK
 
 ## Deploying the app
